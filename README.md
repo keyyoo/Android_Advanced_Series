@@ -8,3 +8,10 @@
 专题4-架构Framework</br>
 专题5-UI、自定义View</br>
 专题6-音视频、图像</br>
+
+
+关注我：</br>
+CSDN：https://me.csdn.net/ykmeory</br>
+简书：https://www.jianshu.com/u/2ab374189130</br>
+微信公众号：</br>
+
