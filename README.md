@@ -32,7 +32,9 @@ Tips:下文每个知识点分别给出我的CSDN和简书的博客地址，内�
 7. Bitmap内存管理</br>
 &emsp;https://blog.csdn.net/ykmeory/article/details/90299152</br>
 &emsp;https://www.jianshu.com/p/4185814edce4
-8.
+8. 长图优化</br>
+&emsp;https://blog.csdn.net/ykmeory/article/details/90407218</br>
+&emsp;https://www.jianshu.com/p/6b4a4cc0a587
 
 #### 架构Framework
 1. 
