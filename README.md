@@ -1,4 +1,4 @@
-# Android_VIP_Series
+# Android_Advanced_Series
 对Android进阶系列进行详细梳理（预计2019年底更新完，这才刚刚开始哦）。
 
 ### 课程大纲：</br>
