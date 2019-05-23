@@ -1,13 +1,13 @@
 # Android_Advanced_Series
 对Android进阶系列进行详细梳理（预计2019年底更新完，这才刚刚开始哦）。
 
-### 课程大纲：</br>
-专题1-算法与数据结构</br>
-专题2-Hybrid开发</br>
-专题3-性能优化</br>
-专题4-架构Framework</br>
-专题5-UI、自定义View</br>
-专题6-音视频、图像</br>
+### Android进阶系列6大专题：</br>
+1、算法与数据结构</br>
+2、Hybrid开发</br>
+3、性能优化</br>
+4、架构Framework</br>
+5、UI、自定义View</br>
+6、音视频、图像</br>
 
 Tips:下文每个知识点分别给出我的CSDN和简书的博客地址，内容是一样的</br>
 
