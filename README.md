@@ -51,7 +51,7 @@ Tips:下文每个知识点分别给出我的CSDN和简书的博客地址，内�
 3.
 
 ### 关注我：</br>
-CSDN：https://me.csdn.net/ykmeory</br>
+CSDN：https://blog.csdn.net/ykmeory</br>
 简书：https://www.jianshu.com/u/2ab374189130</br>
 微信公众号：TechU</br>
 ![](https://github.com/ykayyoo/Android_VIP_Series/blob/master/%E5%85%B3%E4%BA%8E%E6%88%91/Logo.png "扫码关注")</br>
