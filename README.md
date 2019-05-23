@@ -50,7 +50,7 @@ Tips:下文每个知识点分别给出我的CSDN和简书的博客地址，内�
 2.
 3.
 
-### 关注我：</br>
+### 关于我：</br>
 CSDN：https://blog.csdn.net/ykmeory</br>
 简书：https://www.jianshu.com/u/2ab374189130</br>
 微信公众号：TechU</br>
