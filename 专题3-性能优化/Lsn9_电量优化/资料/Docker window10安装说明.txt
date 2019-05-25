@@ -1,0 +1,15 @@
+1.双击Docker Community Edition
+
+2.开启docker并下载工具,在CMD下执行以下命令
+docker run -p 99999999 blystadbattery-historian
+一顿超长的下载等待。。。。。。。。
+看到Listening on port:9999     
+即安装成功
+
+3.开始使用battery
+IE地址输入   http://localhost:9999/
+
+
+
+battery-historian V2.0的数据获取及参数分析:
+https://blog.csdn.net/liangxy2014/article/details/78311938
