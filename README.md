@@ -59,3 +59,25 @@ CSDN：https://blog.csdn.net/ykmeory</br>
 微信公众号：TechU</br>
 ![](https://github.com/ykayyoo/Android_VIP_Series/blob/master/%E5%85%B3%E4%BA%8E%E6%88%91/Logo.png "扫码关注")</br>
 
+常用Chrome插件汇总</br>
+一、扩展程序</br>
+Adblock Plus - 的免费广告拦截程序</br>
+Android SDK Search</br>
+ApiDebug - Http Test</br>
+Axure RP Extension for Chrome</br>
+HostSwitcher</br>
+JSON-handle</br>
+JSONView</br>
+Octotree</br>
+Replace Google CDN</br>
+Tampermonkey</br>
+WEB前端助手(FeHelper)</br>
+</br>
+SetupVPN - Lifetime Free VPN</br>
+WebRTC Leak Shield</br>
+谷歌服务助手</br>
+谷歌访问助手</br>
+
+二、Chrome应用</br>
+Vysor</br>
+
