@@ -81,6 +81,6 @@ WebRTC Leak Shield</br>
 二、Chrome应用</br>
 Vysor</br>
 
-#### AndroidStudio常用快捷键(Windows版)</br>
+#### Android Studio(Windows)快捷键</br>
 Ctrl+Alt+u 切换大小写</br>
 Ctrl+Alt+l 格式化代码</br>
