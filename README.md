@@ -5,8 +5,8 @@
 2、[Hybrid开发(React Native、Flutter)](#Hybrid开发)</br>
 3、[性能优化](#性能优化)</br>
 4、[架构Framework](#架构Framework)</br>
-5、[UI、自定义View](#UI、自定义View)</br>
-6、[音视频、图像](#音视频、图像)</br>
+5、[UI、自定义View](#UI_自定义View)</br>
+6、[音视频、图像](#音视频_图像)</br>
 [关于我](#关于我)</br>
 
 Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一样的</br>
@@ -58,7 +58,7 @@ Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一�
 CSDN：https://blog.csdn.net/ykmeory</br>
 简书：https://www.jianshu.com/u/2ab374189130</br>
 微信公众号：TechU</br>
-![](https://github.com/ykayyoo/Android_VIP_Series/blob/master/%E5%85%B3%E4%BA%8E%E6%88%91/Logo.png "扫码关注")</br>
+![](https://github.com/keyyoo/Android_Advanced_Series/blob/master/%E5%85%B3%E4%BA%8E%E6%88%91/Logo.png "扫码关注")</br>
 
 #### 常用Chrome插件汇总</br>
 一、扩展程序</br>
