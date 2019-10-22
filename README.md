@@ -1,20 +1,15 @@
-# Android_Advanced_Series
-对Android进阶系列进行详细梳理（预计2019年底更新完，这才刚刚开始哦）。
+# Android进阶系列
 
-
-[Activity与Fragment](#Activity与Fragment)
-# Activity与Fragment
-
-### Android进阶系列6大专题：</br>
+### 6大专题：</br>
 1、[算法与数据结构](#算法与数据结构)</br>
 2、[Hybrid开发(React Native、Flutter)](#Hybrid开发)</br>
 3、[性能优化](#性能优化)</br>
 4、[架构Framework](#架构Framework)</br>
 5、[UI、自定义View](#UI、自定义View)</br>
 6、[音视频、图像](#音视频、图像)</br>
-[关于我](#关于我)
+[关于我](#关于我)</br>
 
-Tips:下文每个知识点分别给出我的CSDN和简书的博客地址，内容是一样的</br>
+Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一样的</br>
 
 #### 算法与数据结构
 1. 
