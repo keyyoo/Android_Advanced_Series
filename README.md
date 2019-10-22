@@ -1,11 +1,11 @@
 # Android进阶系列
-[打开世界](#jump)
+
 ### 6大专题：</br>
 1、[算法与数据结构](#算法与数据结构)</br>
 2、[Hybrid开发(React Native、Flutter)](#Hybrid开发)</br>
 3、[性能优化](#性能优化)</br>
 4、[架构Framework](#架构Framework)</br>
-5、[UI、自定义View](#UI)</br>
+5、[UI、自定义View](#ui)</br>
 6、[音视频、图像](#音视频)</br>
 [关于我](#关于我)</br>
 
@@ -43,7 +43,7 @@ Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一�
 2.
 3.
 
-#### UI、自定义View
+#### <span id="ui">UI、自定义View</span>
 1. 
 2.
 3.
@@ -52,7 +52,7 @@ Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一�
 1. 
 2.
 3.
-<span id="jump">Hello World</span>
+
 ### 关于我
 </br>
 CSDN：https://blog.csdn.net/ykmeory</br>
