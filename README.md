@@ -12,17 +12,17 @@
 
 Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一样的</br>
 
-#### 算法与数据结构
+#### 一、算法与数据结构
 1. 
 2.
 3.
 
-#### Hybrid开发
+#### 二、Hybrid开发
 1. 
 2.
 3.
 
-#### 性能优化
+#### 三、性能优化
 1. 
 2.
 3.
@@ -39,17 +39,17 @@ Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一�
 &emsp;https://blog.csdn.net/ykmeory/article/details/90552856</br>
 &emsp;https://www.jianshu.com/p/36faec1c24cc</br>
 
-#### 架构Framework
+#### 四、架构Framework
 1. 
 2.
 3.
 
-#### <span id="ui">UI、自定义View</span>
+#### 五、<span id="ui">UI、自定义View</span>
 1. 
 2.
 3.
 
-#### <span id="media">音视频、图像</span>
+#### 六、<span id="media">音视频、图像</span>
 1. 
 2.
 3.
@@ -58,4 +58,4 @@ Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一�
 CSDN：https://blog.csdn.net/ykmeory</br>
 简书：https://www.jianshu.com/u/2ab374189130</br>
 微信公众号：TechU</br>
-![](https://github.com/keyyoo/Android_Advanced_Series/blob/master/%E5%85%B3%E4%BA%8E%E6%88%91/Logo.png)
+![](https://github.com/keyyoo/Android_Advanced_Series/blob/master/%E5%85%B3%E4%BA%8E%E6%88%91/Logo.png "扫码关注")
