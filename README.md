@@ -31,13 +31,10 @@ Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一�
 6.
 7. Bitmap内存管理</br>
 &emsp;https://blog.csdn.net/ykmeory/article/details/90299152</br>
-&emsp;https://www.jianshu.com/p/4185814edce4
 8. 长图优化</br>
 &emsp;https://blog.csdn.net/ykmeory/article/details/90407218</br>
-&emsp;https://www.jianshu.com/p/6b4a4cc0a587
 9. 电量优化</br>
 &emsp;https://blog.csdn.net/ykmeory/article/details/90552856</br>
-&emsp;https://www.jianshu.com/p/36faec1c24cc</br>
 
 #### 四、架构Framework
 1. 
@@ -56,6 +53,5 @@ Tips:下文每个知识点分别给出我的CSDN和简书地址，内容是一�
 
 ### 关于我
 CSDN：https://blog.csdn.net/ykmeory</br>
-简书：https://www.jianshu.com/u/2ab374189130</br>
 微信公众号：TechU</br>
 ![](https://github.com/keyyoo/Android_Advanced_Series/blob/master/%E5%85%B3%E4%BA%8E%E6%88%91/Logo.png "扫码关注")
