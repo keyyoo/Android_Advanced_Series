@@ -53,4 +53,4 @@ https://blog.csdn.net/ykmeory/article/details/111342674
 ### 关于我
 CSDN：https://blog.csdn.net/ykmeory</br>
 微信公众号：TechU</br>
-![](https://github.com/keyyoo/Android_Advanced_Series/blob/master/%E5%85%B3%E4%BA%8E%E6%88%91/Logo.png "扫码关注")
+![](https://github.com/keyyoo/Android_Advanced_Series/blob/master/me/me.png "扫码关注")
