@@ -1,6 +1,6 @@
 # Android进阶系列
 
-## 6大专题：</br>
+## 六大专题：</br>
 1、[算法与数据结构](#一算法与数据结构)</br>
 2、[Hybrid开发(React Native、Flutter)](#二Hybrid开发)</br>
 3、[性能优化](#三性能优化)</br>
