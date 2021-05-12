@@ -1,7 +1,7 @@
 # Android进阶系列
 
 ## 六大专题：</br>
-1、[算法与数据结构](#一算法与数据结构)</br>
+1、[数据结构与算法](#一数据结构与算法)</br>
 2、[Hybrid开发(React Native、Flutter)](#二Hybrid开发)</br>
 3、[性能优化](#三性能优化)</br>
 4、[架构Framework](#四架构Framework)</br>
@@ -10,7 +10,7 @@
 
 [关于我](#关于我)</br>
 
-### 一、算法与数据结构
+### 一、数据结构与算法
 1. 稀疏数组 - SparseArray</br>
 https://blog.csdn.net/ykmeory/article/details/111342674
 2.
