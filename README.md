@@ -11,9 +11,8 @@
 [关于我](#关于我)</br>
 
 ### 一、数据结构与算法
-1. 稀疏数组 - SparseArray</br>
-https://blog.csdn.net/ykmeory/article/details/111342674
-2.
+1. [稀疏数组 - SparseArray](https://blog.csdn.net/ykmeory/article/details/111342674)
+2. [队列 - Queue](https://blog.csdn.net/ykmeory/article/details/111999979)
 3.
 
 ### 二、Hybrid开发
@@ -52,5 +51,4 @@ https://blog.csdn.net/ykmeory/article/details/111342674
 
 ## 关于我
 CSDN：https://blog.csdn.net/ykmeory</br>
-微信公众号：TechU</br>
-![](https://github.com/keyyoo/Android_Advanced_Series/blob/master/me/me.png "扫码关注")
+微信公众号：TechU
