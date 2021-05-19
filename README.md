@@ -27,12 +27,9 @@
 4.
 5.
 6.
-7. Bitmap内存管理</br>
-&emsp;https://blog.csdn.net/ykmeory/article/details/90299152</br>
-8. 长图优化</br>
-&emsp;https://blog.csdn.net/ykmeory/article/details/90407218</br>
-9. 电量优化</br>
-&emsp;https://blog.csdn.net/ykmeory/article/details/90552856</br>
+7. [Bitmap内存管理](https://blog.csdn.net/ykmeory/article/details/90299152)
+8. [长图优化](https://blog.csdn.net/ykmeory/article/details/90407218)
+9. [电量优化](https://blog.csdn.net/ykmeory/article/details/90552856)
 
 ### 四、架构Framework
 1. 
@@ -50,5 +47,5 @@
 3.
 
 ## 关于我
-CSDN：https://blog.csdn.net/ykmeory</br>
+[CSDN](https://blog.csdn.net/ykmeory)
 微信公众号：TechU
