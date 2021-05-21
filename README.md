@@ -83,4 +83,4 @@
 <br>
 微信公众号：TechU
 <br>
-![QR code](https://github.com/keyyoo/Android_Advanced_Series/blob/master/public.png "Scan to follow")
+![TechU](https://github.com/keyyoo/Android_Advanced_Series/blob/master/public.png "Scan to follow")
