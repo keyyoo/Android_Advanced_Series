@@ -81,6 +81,6 @@
 ## 关于我
 [CSDN](https://blog.csdn.net/ykmeory)
 <br>
-WeChat Public Account: TechU
+微信公众号: TechU
 <br>
 ![TechU](https://github.com/keyyoo/Android_Advanced_Series/blob/master/public.png "Scan to follow")
